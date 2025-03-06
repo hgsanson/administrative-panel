@@ -2,7 +2,7 @@
   <h1 align="center"><a href="https://food-explorer-vasc-333.netlify.app/">Administrative Panel 💻</a></h1>
 </p>
 
-> Status: Developed ✅
+> Status: Finished ✅
 
 ### Initial page:
 
