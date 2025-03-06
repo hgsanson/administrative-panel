@@ -14,8 +14,6 @@ Building an administrative panel using the RADIX UI library, putting application
 
 ## Technologies used in this project 🛠️
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [ReactJS](https://legacy.reactjs.org/docs/getting-started.html)
 - [NextJS](https://nextjs.org/)
 - [Radix](https://www.radix-ui.com/)
